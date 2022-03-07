@@ -111,8 +111,9 @@ the `sso_url` return the custom add-on panel displayed in the `Clever Cloud Cons
 
   - **You have to check that your computed token match the provided one**
 
-### A toy example
-In the `example` folder we provide a minimal example in Python to understand how the back-end and the add-on api can work together.
+### A toy example in python
+
+In the `example-addon-provider-python` folder we provide a minimal example in Python to understand how the back-end and the add-on api can work together.
 
 It is not a production ready code, but an easy to understand example.
 
